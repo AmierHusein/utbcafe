@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798805418494",
+    "firebase_url": "https://utbcafe-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "utbcafe",
+    "storage_bucket": "utbcafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798805418494:android:a33ebf12f8dde8353360af",
+        "android_client_info": {
+          "package_name": "com.example.utb_cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798805418494-a1cq74e5fp6vl32dch5c4gv62e1a8rqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeXkQY9NyQl7LLx_DnsVyBdwZPVvZ8Ra8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798805418494-a1cq74e5fp6vl32dch5c4gv62e1a8rqv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798805418494-oi16iesm2legnhm03qdkgdsldp8cvm1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.utbCafe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
